@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingVideo", "TestingVideo\TestingVideo.csproj", "{653D176A-1ED2-4918-9FBF-2365F9CE2851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGraphs", "DataGraphs\DataGraphs.csproj", "{12E16CF7-9F6B-46CD-97C8-D4211816C380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaugeCreator", "GaugeCreator\GaugeCreator.csproj", "{A6C71FCB-3A0B-4C3A-8584-001EF7D38192}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{653D176A-1ED2-4918-9FBF-2365F9CE2851}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{653D176A-1ED2-4918-9FBF-2365F9CE2851}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{653D176A-1ED2-4918-9FBF-2365F9CE2851}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{653D176A-1ED2-4918-9FBF-2365F9CE2851}.Debug|x86.ActiveCfg = Debug|x86
+		{653D176A-1ED2-4918-9FBF-2365F9CE2851}.Debug|x86.Build.0 = Debug|x86
+		{653D176A-1ED2-4918-9FBF-2365F9CE2851}.Release|Any CPU.ActiveCfg = Release|x86
+		{653D176A-1ED2-4918-9FBF-2365F9CE2851}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{653D176A-1ED2-4918-9FBF-2365F9CE2851}.Release|Mixed Platforms.Build.0 = Release|x86
+		{653D176A-1ED2-4918-9FBF-2365F9CE2851}.Release|x86.ActiveCfg = Release|x86
+		{653D176A-1ED2-4918-9FBF-2365F9CE2851}.Release|x86.Build.0 = Release|x86
+		{12E16CF7-9F6B-46CD-97C8-D4211816C380}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{12E16CF7-9F6B-46CD-97C8-D4211816C380}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{12E16CF7-9F6B-46CD-97C8-D4211816C380}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{12E16CF7-9F6B-46CD-97C8-D4211816C380}.Debug|x86.ActiveCfg = Debug|x86
+		{12E16CF7-9F6B-46CD-97C8-D4211816C380}.Debug|x86.Build.0 = Debug|x86
+		{12E16CF7-9F6B-46CD-97C8-D4211816C380}.Release|Any CPU.ActiveCfg = Release|x86
+		{12E16CF7-9F6B-46CD-97C8-D4211816C380}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{12E16CF7-9F6B-46CD-97C8-D4211816C380}.Release|Mixed Platforms.Build.0 = Release|x86
+		{12E16CF7-9F6B-46CD-97C8-D4211816C380}.Release|x86.ActiveCfg = Release|x86
+		{12E16CF7-9F6B-46CD-97C8-D4211816C380}.Release|x86.Build.0 = Release|x86
+		{A6C71FCB-3A0B-4C3A-8584-001EF7D38192}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A6C71FCB-3A0B-4C3A-8584-001EF7D38192}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{A6C71FCB-3A0B-4C3A-8584-001EF7D38192}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{A6C71FCB-3A0B-4C3A-8584-001EF7D38192}.Debug|x86.ActiveCfg = Debug|x86
+		{A6C71FCB-3A0B-4C3A-8584-001EF7D38192}.Debug|x86.Build.0 = Debug|x86
+		{A6C71FCB-3A0B-4C3A-8584-001EF7D38192}.Release|Any CPU.ActiveCfg = Release|x86
+		{A6C71FCB-3A0B-4C3A-8584-001EF7D38192}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{A6C71FCB-3A0B-4C3A-8584-001EF7D38192}.Release|Mixed Platforms.Build.0 = Release|x86
+		{A6C71FCB-3A0B-4C3A-8584-001EF7D38192}.Release|x86.ActiveCfg = Release|x86
+		{A6C71FCB-3A0B-4C3A-8584-001EF7D38192}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

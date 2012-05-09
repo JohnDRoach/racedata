@@ -1,0 +1,7 @@
+﻿<UserControl x:Class="GaugeCreator.Draggables.Base.DraggableBase"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Border BorderBrush="Blue" BorderThickness="1">
+        <TextBlock Name="DisplayText" Text="Default Text" />
+    </Border>
+</UserControl>
