@@ -12,6 +12,9 @@ namespace RaceDataHome.Models
             get { return "John Roach"; }
         }
 
-        public string Email { get; set; }
+        public string Email
+        {
+            get { return "roach.john@gmail.com"; }
+        }
     }
 }
