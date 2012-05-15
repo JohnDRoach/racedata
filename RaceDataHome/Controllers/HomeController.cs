@@ -27,7 +27,7 @@ namespace RaceDataHome.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your quintessential contact page.";
+            //ViewBag.Message = "Your quintessential contact page.";
 
             return View(contactDetails);
         }
