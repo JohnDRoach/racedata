@@ -7,3 +7,11 @@ bin-release/
 .flexProperties
 .settings/
 .project
+/DataGraphs/bin
+/DataGraphs/obj
+/GaugeCreator/bin
+/GaugeCreator/obj
+/RaceDataHome/bin
+/RaceDataHome/obj
+/TestingVideo/bin
+/TestingVideo/obj
