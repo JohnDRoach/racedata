@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -30,6 +31,13 @@ namespace RaceDataHome.Controllers
             //ViewBag.Message = "Your quintessential contact page.";
 
             return View(contactDetails);
+        }
+
+        public ActionResult Applications()
+        {
+            DirectoryInfo appDataDirectory = new DirectoryInfo(Server.MapPath(@"~\App_Data"));
+            var stuff = appDataDirectory.EnumerateFiles();
+            return View(stuff);
         }
     }
 }

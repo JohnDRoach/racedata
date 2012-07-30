@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Applications";
+}
+@model IEnumerable<FileInfo>
+
+<h2>Applications</h2>
+
+<section class="filelist">
+    @foreach (var file in Model) {
+        <a href="@file.FullName">@file.Name</a>
+    }
+</section>

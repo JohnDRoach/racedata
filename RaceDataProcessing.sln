@@ -8,6 +8,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaugeCreator", "GaugeCreator\GaugeCreator.csproj", "{A6C71FCB-3A0B-4C3A-8584-001EF7D38192}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceDataHome", "RaceDataHome\RaceDataHome.csproj", "{6521E175-C27F-4FB6-AB2E-AF7124B3D2A8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{12E16CF7-9F6B-46CD-97C8-D4211816C380} = {12E16CF7-9F6B-46CD-97C8-D4211816C380}
+		{A6C71FCB-3A0B-4C3A-8584-001EF7D38192} = {A6C71FCB-3A0B-4C3A-8584-001EF7D38192}
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{74AB7E8C-5B68-4E78-AF05-2E304DCB488F}"
 	ProjectSection(SolutionItems) = preProject
